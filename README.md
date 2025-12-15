@@ -16,6 +16,6 @@ You will need to use your own OpenAI API-key to use this program. Log in to http
 
 ## List of links to documentation used:
 1. os: https://docs.python.org/3/library/os.html
-2. OpenAI://platform.openai.com/docs/libraries
+2. OpenAI: https://platform.openai.com/docs/libraries
 3. OpenAI API references: https://platform.openai.com/docs/api-reference/introduction
 4. dotenv: https://pypi.org/project/python-dotenv/
